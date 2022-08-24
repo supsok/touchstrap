@@ -1,2 +1,2 @@
-<h3 align="center">Touchstrap</h3>
+<h3 align="center">Welcome to Touchstrap</h3>
 
